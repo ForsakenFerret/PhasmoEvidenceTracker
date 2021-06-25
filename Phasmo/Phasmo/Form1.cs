@@ -259,10 +259,6 @@ namespace Phasmo
 					cbWriting.Visible = false;
 					break;
 
-				case 40:
-					cbEMF.Visible = false;
-					break;
-
 				case 41: //jinn
 					cbFinger.Visible = false;
 					cbFreezing.Visible = false;
