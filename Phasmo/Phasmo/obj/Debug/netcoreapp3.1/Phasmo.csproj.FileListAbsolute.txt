@@ -1,0 +1,14 @@
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\bin\Debug\netcoreapp3.1\Phasmo.exe
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\bin\Debug\netcoreapp3.1\Phasmo.deps.json
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\bin\Debug\netcoreapp3.1\Phasmo.runtimeconfig.json
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\bin\Debug\netcoreapp3.1\Phasmo.runtimeconfig.dev.json
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\bin\Debug\netcoreapp3.1\Phasmo.dll
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\bin\Debug\netcoreapp3.1\Phasmo.pdb
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\obj\Debug\netcoreapp3.1\Phasmo.Form1.resources
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\obj\Debug\netcoreapp3.1\Phasmo.csproj.GenerateResource.cache
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\obj\Debug\netcoreapp3.1\Phasmo.AssemblyInfoInputs.cache
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\obj\Debug\netcoreapp3.1\Phasmo.AssemblyInfo.cs
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\obj\Debug\netcoreapp3.1\Phasmo.csproj.CoreCompileInputs.cache
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\obj\Debug\netcoreapp3.1\Phasmo.dll
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\obj\Debug\netcoreapp3.1\Phasmo.pdb
+C:\Users\psalzer\source\repos\Phasmo\Phasmo\obj\Debug\netcoreapp3.1\Phasmo.genruntimeconfig.cache
